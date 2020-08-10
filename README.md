@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Douglas Parnoff, and I'm from Brazil (🇧🇷). I've been working as Developer since 2014, builting APIs, Back End, BPO's and a little bit of Front End.
+My name is Douglas Parnoff, and I'm from Brazil (🇧🇷 ). I've been working as Developer since 2014, builting APIs, Back End, BPO's and a little bit of Front End.
 
 🔭  I’m currently working on ADP Labs Brazil as Developer.
 
