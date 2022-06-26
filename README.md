@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-My name is Douglas Parnoff, and I'm from Brazil (🇧🇷 ). I've been working as Developer since 2014, builting APIs, Back End, BPO's and a little bit of Front End.
+My name is Douglas Parnoff, :family_man_woman_girl: I'm father :baby_bottle: and my family and I live in Brazil (🇧🇷 ). 
 
-🔭  I’m currently working on ADP Labs Brazil as Developer.
+I've been working as Developer since 2014, builting APIs, Back End, BPO's and a little bit of Front End.
 
-:family_man_woman_girl: And I'm father :baby_bottle:
-
-:coffee: When a have a time, I'm updating my tech skills, learning on Udemy, Freecodecamp, Alura, Udacity and others.
+:coffee: When a have a time, I'm updating my soft and hard skills, learning on Udemy, Freecodecamp, Alura, Udacity and others plataforms.
 
 Would you like to find me?
 
