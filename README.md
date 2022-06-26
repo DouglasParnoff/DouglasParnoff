@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Douglas Parnoff, :family_man_woman_girl: I'm father :baby_bottle:, husband and Software Developer. My family and I live in Brazil (🇧🇷 ). 
+:family_man_woman_girl:
+
+My name is Douglas Parnoff, I'm father :baby_bottle:, husband and Software Developer. My family and I live in Brazil (🇧🇷 ). 
 
 I've been working as Developer since 2014, builting APIs, Back End, BPO's and a little bit of Front End.
 
