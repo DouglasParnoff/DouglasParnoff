@@ -12,4 +12,4 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasparnoff)](https://www.linkedin.com/in/douglasparnoff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasParnoff)](https://github.com/DouglasParnoff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasParnoff&langs_count=8)](https://github.com/DouglasParnoff/github-readme-stats)
